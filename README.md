@@ -1,66 +1,87 @@
-# Hi, I'm Rishin R 👋
+<h1 align="center">Hi, I'm Rishin R! 👋</h1>
+<p align="center">
+  <b>Software Development Engineer • Builder of Scalable Systems • AI & Rust Enthusiast</b>
+</p>
 
-**Software Development Engineer | AI, Distributed Systems & DevOps Enthusiast**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishinr)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/RishinR)
-[![Email](https://img.shields.io/badge/Email-rishinr.official@gmail.com-red?logo=gmail&logoColor=white)](mailto:rishinr.official@gmail.com)
-
----
-
-### 🚀 About Me
-
-- 👨‍💻 Software Development Engineer III at UST, with deep experience in system migration, AI-powered assistants, and scalable backend solutions.
-- 🎓 B.Tech in Computer Science & Engineering (with Minor in Mathematics), College of Engineering Trivandrum — CGPA: 9.28/10.
-- ⚡ Passionate about building high-performance distributed systems and practical AI-driven solutions.
+<p align="center">
+  <a href="mailto:rishinr.official@gmail.com"><img src="https://img.shields.io/badge/email-rishinr.official@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/rishinr"><img src="https://img.shields.io/badge/linkedin-rishinr-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/RishinR"><img src="https://img.shields.io/badge/github-RishinR-181717?style=for-the-badge&logo=github" /></a>
+</p>
 
 ---
 
-### 🛠️ Skills
+## 🚀 About Me
 
-- **Programming:** Python • Rust • C • C++ • JavaScript • TypeScript
-- **Backend:** FastAPI • Flask • Express.js • Node.js • Actix Web • gRPC
-- **Databases:** PostgreSQL • MySQL • MongoDB • Qdrant (Vector DB) • Neo4j (Graph DB) • ChromaDB
-- **Cloud & DevOps:** Docker • Kubernetes • GitLab CI/CD • Jenkins • Terraform • AWS • Azure
+Hi! I'm Rishin, a passionate software engineer who loves turning complex ideas into robust, scalable systems. My journey has taken me from building secure IoT protocols in Rust to crafting AI-powered tools and high-performance distributed caches. I thrive at the intersection of backend engineering, cloud infrastructure, and practical AI.
 
----
-
-### 🌟 Selected Projects
-
-#### 🟢 AI-Powered Code Impact Analyzer (2024)
-> Built with FastAPI, Neo4j, Azure OpenAI  
-> - Real-time codebase analysis & failure-point detection, reducing debugging time by 50%.  
-> - Graph-based dependency tracking for understanding function interdependencies.
-
-#### 🟠 High-Performance Distributed Cache (2023)
-> Built with Rust, Qdrant, Tokio  
-> - In-memory distributed cache for ultra-low latency lookups (60% faster throughput).  
-> - Asynchronous I/O, consistent hashing, and vector-based similarity search.
-
-#### 🟣 Revin AI Chatbot & Voice Assistant
-> - AI-driven chatbot using ChromaDB & semantic chunking, improving query accuracy by 35%.  
-> - Designed for manual-based support and automated query resolution.
-
-#### 🔵 Secure IoT Protocols in Rust
-> - DTLS-based secure IoT communication, lowering TLS overhead by 20%.  
-> - MQTTSN integration with async I/O and multithreading, boosting throughput by 40%.
+- 🎯 Currently: SDE III at UST, leading projects in system migration, AI chatbots, and skill-matching algorithms
+- 🎓 B.Tech in Computer Science & Engineering (Minor: Mathematics) from College of Engineering Trivandrum (CGPA: 9.28)
+- 🛠️ Enjoy building things that make life easier, faster, and smarter
 
 ---
 
-### 💼 Experience
+## 🏆 Featured Projects
 
-- **UST** (2024–Present): Led migration of IJP system to React + FastAPI, designed skill-matching algorithms, built AI support systems.
-- **Visteon Corporation** (2024): Automated CI/CD pipelines, containerized deployments in Kubernetes.
-- **Phorena** (2021–2022): Developed secure, high-performance IoT protocols in Rust.
+### ⚡️ AI-Powered Code Impact Analyzer
+A tool that uses FastAPI, Neo4j, and Azure OpenAI to map code dependencies and detect failure points, **cutting debugging time by 50%**.
+<br/>[See code](https://github.com/RishinR) <!-- Replace with actual repo if public -->
+
+### 🚀 High-Performance Distributed Cache
+Rust-based, in-memory cache built on Qdrant DB for lightning-fast lookups. Features async I/O, consistent hashing, and vector similarity search for modern scalable apps.
+<br/>[See code](https://github.com/RishinR) <!-- Replace with actual repo if public -->
+
+### 🗣️ Revin AI Chatbot & Voice Assistant
+AI-powered assistant using ChromaDB and semantic chunking to boost manual-query accuracy by 35%. Designed for seamless support experiences.
+
+### 🔒 Secure IoT Protocols (Rust)
+Designed and optimized DTLS-based, async IoT communication protocols, improving security and performance for real-world deployments.
 
 ---
 
-### 📫 Contact
+## 🧑‍💻 My Toolbox
 
-- **Email:** rishinr.official@gmail.com
-- **LinkedIn:** [linkedin.com/in/rishinr](https://linkedin.com/in/rishinr)
-- **GitHub:** [github.com/RishinR](https://github.com/RishinR)
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
+  <!-- Add more as you like -->
+</p>
 
 ---
 
-*Let's connect, collaborate, and build something impactful!*
+## 🌱 What I'm Learning & Exploring
+
+- Advanced graph algorithms and knowledge graphs for smarter automation
+- Building resilient, cloud-native architectures on Kubernetes
+- Making AI assistants more context-aware and useful
+
+---
+
+## ✨ Fun Facts
+
+- I love optimizing for speed—whether it's code, deployments, or workflows!
+- Big fan of hackathons and open-source.
+- When I'm not coding, you'll find me exploring new tech, reading, or gaming.
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to collaborating on interesting projects or just geeking out about new tech.
+- Email: **rishinr.official@gmail.com**
+- LinkedIn: [linkedin.com/in/rishinr](https://linkedin.com/in/rishinr)
+- GitHub: [github.com/RishinR](https://github.com/RishinR)
+
+---
+
+<p align="center">
+  <i>“Code. Build. Learn. Repeat.”</i>
+</p>
