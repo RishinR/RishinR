@@ -48,13 +48,37 @@ Building scalable AI-driven systems and backend infrastructures using **Python**
 
 ---
 
-### 🧠 Technical Stack
+### ⚙️ Tech Stack
 
-**Languages:** Python, Rust, TypeScript  
-**Frameworks:** FastAPI, Node.js, Actix Web  
-**Databases:** PostgreSQL, MongoDB, Neo4j, Redis  
-**Cloud & DevOps:** Git, Docker, Kubernetes, GitLab CI/CD, Azure  
-**AI/ML & LLMs:** Azure OpenAI API, GPT-4, Prompt Engineering, Semantic Search  
+#### 🧑‍💻 **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### 🧱 **Frameworks**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Actix%20Web](https://img.shields.io/badge/Actix%20Web-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+#### 🗄️ **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+#### ☁️ **Cloud & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### 🤖 **AI/ML & LLMs**
+![Azure%20OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt%20Engineering](https://img.shields.io/badge/Prompt%20Engineering-1E88E5?style=for-the-badge&logo=openai&logoColor=white)
+![Semantic%20Search](https://img.shields.io/badge/Semantic%20Search-6200EE?style=for-the-badge&logo=semanticweb&logoColor=white)
 
 ---
 
@@ -67,8 +91,8 @@ Building scalable AI-driven systems and backend infrastructures using **Python**
 
 ### 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-RishinR-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rishinr)  
-[![GitHub](https://img.shields.io/badge/GitHub-RishinR-black?style=for-the-badge&logo=github)](https://github.com/RishinR)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-RishinR-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rishinr)
+[![GitHub](https://img.shields.io/badge/GitHub-RishinR-black?style=for-the-badge&logo=github)](https://github.com/RishinR)
 [![Email](https://img.shields.io/badge/Email-rishinr.official@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:rishinr.official@gmail.com)
 
 ---
